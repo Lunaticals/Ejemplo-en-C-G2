@@ -1,3 +1,5 @@
+//AUTOR: OCTAVIO RAMIREZ
+
 #include <stdio.h>
 
 int main () {

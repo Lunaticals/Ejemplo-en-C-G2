@@ -1,4 +1,4 @@
-//PENDIENTE DE DOCUMENTAR
+//AUTOR: OCTAVIO RAMIREZ
 
 //Inclusión de bibliotecas.
 #include <stdio.h>
